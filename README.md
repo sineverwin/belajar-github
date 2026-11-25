@@ -13,3 +13,8 @@ Selamat datang di perjalanan belajar saya.
 ## Status
 
 Sedang belajar dari nol.
+
+## Eksperimen Branch
+
+Ini adalah perubahan pertama saya
+di branch latihan-branch.
